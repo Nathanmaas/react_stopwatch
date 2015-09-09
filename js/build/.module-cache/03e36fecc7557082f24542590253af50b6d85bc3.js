@@ -1,0 +1,7 @@
+
+var time = {
+componentTimeDisplay: function(){
+
+},
+
+};

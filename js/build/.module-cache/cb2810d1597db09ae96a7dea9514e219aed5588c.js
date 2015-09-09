@@ -1,0 +1,6 @@
+
+var TimeDisplay = {
+componentWillMount: function(){
+
+  },
+};
